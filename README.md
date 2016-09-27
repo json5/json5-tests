@@ -19,4 +19,4 @@ supported data type, but aggregate test cases are welcome, too.
 
 ## License
 
-[MIT License](LICENSE.md) © 2012-2016 Aseem Kishore.
+MIT. See [LICENSE.md](./LICENSE.md) for details.
